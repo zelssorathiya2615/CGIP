@@ -1,0 +1,39 @@
+# Virtual environment
+venv/
+env/
+.env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Distribution
+*.tar.gz
+*.whl
+
+# Logs
+*.log
+
+# Test coverage
+htmlcov/
+.coverage
+.pytest_cache/
