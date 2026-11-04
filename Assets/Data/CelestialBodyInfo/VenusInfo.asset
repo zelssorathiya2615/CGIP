@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04fad43e517f6154ab820b2b279d0bd4, type: 3}
+  m_Name: VenusInfo
+  m_EditorClassIdentifier: Assembly-CSharp::CelestialBodyInfo
+  bodyName: Venus
+  classification: Terrestrial Planet
+  positionFromSun: 2nd Planet
+  overview: Venus is the second planet from the Sun. It has an extremely dense carbon
+    dioxide atmosphere that produces a powerful greenhouse effect. Its surface is
+    dominated by volcanic features mountains and extensive plains.
+  keyCharacteristics: 'Hottest planetary surface in the Solar System.
+
+    Extremely
+    dense carbon dioxide atmosphere.
+
+    Retrograde rotation.
+
+    Thick sulfuric
+    acid cloud layers.
+
+    Surface pressure approximately 92 times Earth''s.
+
+    No
+    known natural satellites.'
+  meanRadiusKm: 6051.8
+  meanDiameterKm: 12103.6
+  massKg: 4.86731e+24
+  meanDensityGcm3: 5.243
+  surfaceGravityMs2: 8.87
+  escapeVelocityKms: 10.36
+  semiMajorAxisAU: 0.7233
+  orbitalPeriodDays: 224.701
+  orbitalEccentricity: 0.0068
+  orbitalInclinationDeg: 3.395
+  perihelionAU: 0.7184
+  aphelionAU: 0.7282
+  meanOrbitalVelocityKms: 35.02
+  siderealRotationPeriodDays: -243.018
+  lengthOfDayHours: 2802
+  axialTiltDeg: 177.36
+  atmosphericComposition: Approximately 96.5% carbon dioxide and 3.5% nitrogen with
+    traces of sulfur dioxide water vapour and other gases. The planet is covered
+    by thick sulfuric acid cloud layers.
+  atmosphericPressureBar: 92
+  minimumTemperatureC: 438
+  meanTemperatureC: 464
+  maximumTemperatureC: 475
+  moonCount: 0
+  notableMoons: []
+  internalStructure: ' Venus is believed to have an iron-rich core a rocky mantle
+    and a silicate crust. Its internal structure is broadly similar in composition
+    to Earth although important details remain uncertain.'
+  surfaceAndRings: The surface contains volcanic plains mountains impact craters
+    and extensive lava-related terrain. Venus has no planetary ring system
+  magneticField: Venus does not possess an Earth-like intrinsic global magnetic field.
+    Its interaction with the solar wind produces an induced magnetosphere.

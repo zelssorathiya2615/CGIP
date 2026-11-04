@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04fad43e517f6154ab820b2b279d0bd4, type: 3}
+  m_Name: UranusInfo
+  m_EditorClassIdentifier: Assembly-CSharp::CelestialBodyInfo
+  bodyName: Uranus
+  classification: Ice Giant
+  positionFromSun: 7th Planet
+  overview: 'Uranus is the seventh planet from the Sun. It is an ice giant
+
+    with
+    a hydrogen-helium atmosphere containing methane,
+
+    which contributes to its
+    blue-green appearance.
+
+    Its extreme axial tilt makes it appear to rotate
+    almost
+
+    on its side.'
+  keyCharacteristics: "- Ice giant with a blue-green appearance.\r\n- Axial tilt
+    of approximately 97.77 degrees.\r\n- Has a faint, dark ring system.\r\n- Experiences
+    extreme seasonal variations.\r\n- Has an unusual magnetic field.\r\n- Five major
+    moons include Miranda, Ariel, Umbriel,\r\n  Titania and Oberon."
+  meanRadiusKm: 25362
+  meanDiameterKm: 50724
+  massKg: 8.68099e+25
+  meanDensityGcm3: 1.27
+  surfaceGravityMs2: 8.87
+  escapeVelocityKms: 21.38
+  semiMajorAxisAU: 19.191
+  orbitalPeriodDays: 30687
+  orbitalEccentricity: 0.0463
+  orbitalInclinationDeg: 0.773
+  perihelionAU: 18.29
+  aphelionAU: 20.09
+  meanOrbitalVelocityKms: 6.8
+  siderealRotationPeriodDays: -0.71833
+  lengthOfDayHours: 17.2
+  axialTiltDeg: 97.77
+  atmosphericComposition: 'Primarily hydrogen and helium, with methane and
+
+    small
+    quantities of other hydrocarbons.
+
+    Methane absorbs red light and contributes
+    to Uranus''s
+
+    blue-green appearance.'
+  atmosphericPressureBar: 0
+  minimumTemperatureC: 0
+  meanTemperatureC: -195
+  maximumTemperatureC: 0
+  moonCount: 5
+  notableMoons:
+  - Miranda
+  - Ariel
+  - Umbriel
+  - Titania
+  - Oberon
+  internalStructure: 'Uranus has an atmosphere surrounding a deep interior
+
+    rich
+    in water, ammonia and methane under extreme pressure.
+
+    It may contain a
+    rocky central core.'
+  surfaceAndRings: 'Uranus has no conventional solid surface.
+
+    Its ring system
+    is relatively narrow, dark and faint.'
+  magneticField: 'Uranus has a highly tilted and offset magnetic field
+
+    relative
+    to its rotational axis, creating an unusual
+
+    magnetosphere.'

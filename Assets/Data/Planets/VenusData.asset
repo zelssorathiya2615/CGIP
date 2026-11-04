@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54baec96e61733d4b92f5da5f9bfe49d, type: 3}
+  m_Name: VenusData
+  m_EditorClassIdentifier: Assembly-CSharp::PlanetData
+  planetName: Venus
+  semiMajorAxisAU: 0.72332102
+  eccentricity: 0.00676399
+  inclinationDeg: 3.39777545
+  meanLongitudeDeg: 181.9797085
+  longitudeOfPerihelionDeg: 131.76755713
+  longitudeOfAscendingNodeDeg: 76.67261496
+  semiMajorAxisRate: -0.00000026
+  eccentricityRate: -0.00005107
+  inclinationRate: 0.00043494
+  meanLongitudeRate: 58517.8156026
+  longitudeOfPerihelionRate: 0.05679648
+  longitudeOfAscendingNodeRate: -0.27274174
+  b: 0
+  c: 0
+  s: 0
+  f: 0
+  validFromYear: -3000
+  validToYear: 3000
+  source: NASA/JPL Solar System Dynamics - Approximate Positions of the Planets

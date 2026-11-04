@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04fad43e517f6154ab820b2b279d0bd4, type: 3}
+  m_Name: MarsInfo
+  m_EditorClassIdentifier: Assembly-CSharp::CelestialBodyInfo
+  bodyName: Mars
+  classification: Terrestrial Planet
+  positionFromSun: 4th Planet
+  overview: Mars is the fourth planet from the Sun. It is a cold rocky world with
+    a thin carbon dioxide atmosphere. Its surface contains enormous volcanoes deep
+    canyons impact craters and geological evidence of ancient environments where
+    liquid water may have existed.
+  keyCharacteristics: 'Known as the Red Planet.
+
+    Home to Olympus Mons a giant
+    shield volcano.
+
+    Contains Valles Marineris an enormous canyon system.
+
+    Has
+    polar ice caps.
+
+    Two natural satellites: Phobos and Deimos.
+
+    Evidence
+    of ancient water activity.'
+  meanRadiusKm: 3389.5
+  meanDiameterKm: 6779
+  massKg: 6.4171e+23
+  meanDensityGcm3: 3.934
+  surfaceGravityMs2: 3.71
+  escapeVelocityKms: 5.03
+  semiMajorAxisAU: 1.5237
+  orbitalPeriodDays: 686.98
+  orbitalEccentricity: 0.0934
+  orbitalInclinationDeg: 1.85
+  perihelionAU: 1.3814
+  aphelionAU: 1.666
+  meanOrbitalVelocityKms: 24.07
+  siderealRotationPeriodDays: 1.02595675
+  lengthOfDayHours: 24.7
+  axialTiltDeg: 25.19
+  atmosphericComposition: Approximately 95.3% carbon dioxide 2.7% nitrogen and 1.6%
+    argon with small quantities of oxygen carbon monoxide and water vapour.
+  atmosphericPressureBar: 0.006
+  minimumTemperatureC: -125
+  meanTemperatureC: -65
+  maximumTemperatureC: 20
+  moonCount: 2
+  notableMoons:
+  - Phobos
+  - 'Deimos  '
+  internalStructure: Mars has a metallic core a silicate mantle and a rocky crust.
+    Its core contains iron nickel and lighter elements.
+  surfaceAndRings: The surface includes Olympus Mons Valles Marineris polar ice caps
+    volcanic plains and impact craters. Mars has no planetary ring system.
+  magneticField: Mars does not currently possess a strong global intrinsic magnetic
+    field. Localized crustal magnetic regions remain from its ancient magnetic history.

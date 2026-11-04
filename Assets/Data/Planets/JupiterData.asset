@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54baec96e61733d4b92f5da5f9bfe49d, type: 3}
+  m_Name: JupiterData
+  m_EditorClassIdentifier: Assembly-CSharp::PlanetData
+  planetName: Jupiter
+  semiMajorAxisAU: 5.20248019
+  eccentricity: 0.0485359
+  inclinationDeg: 1.29861416
+  meanLongitudeDeg: 34.33479152
+  longitudeOfPerihelionDeg: 14.27495244
+  longitudeOfAscendingNodeDeg: 100.29282654
+  semiMajorAxisRate: -0.00002864
+  eccentricityRate: 0.00018026
+  inclinationRate: -0.00322699
+  meanLongitudeRate: 3034.90371757
+  longitudeOfPerihelionRate: 0.18199196
+  longitudeOfAscendingNodeRate: 0.13024619
+  b: -0.00012452
+  c: 0.0606406
+  s: -0.35635438
+  f: 38.35125
+  validFromYear: -3000
+  validToYear: 3000
+  source: NASA/JPL Solar System Dynamics - Approximate Positions of the Planets

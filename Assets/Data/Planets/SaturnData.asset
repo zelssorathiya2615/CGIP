@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54baec96e61733d4b92f5da5f9bfe49d, type: 3}
+  m_Name: SaturnData
+  m_EditorClassIdentifier: Assembly-CSharp::PlanetData
+  planetName: Saturn
+  semiMajorAxisAU: 9.54149883
+  eccentricity: 0.05550825
+  inclinationDeg: 2.49424102
+  meanLongitudeDeg: 50.07571329
+  longitudeOfPerihelionDeg: 92.86136063
+  longitudeOfAscendingNodeDeg: 113.63998702
+  semiMajorAxisRate: -0.00003065
+  eccentricityRate: -0.00032044
+  inclinationRate: 0.00451969
+  meanLongitudeRate: 1222.11494724
+  longitudeOfPerihelionRate: 0.54179478
+  longitudeOfAscendingNodeRate: -0.25015002
+  b: 0.00025899
+  c: -0.13434469
+  s: 0.87320147
+  f: 0.87320147
+  validFromYear: -3000
+  validToYear: 3000
+  source: NASA/JPL Solar System Dynamics - Approximate Positions of the Planets

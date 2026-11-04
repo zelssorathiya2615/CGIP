@@ -1,4 +1,4 @@
-﻿# Unity generated folders
+# Unity generated folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -10,8 +10,9 @@
 # Unity cache
 MemoryCaptures/
 Recordings/
+ProfilerCaptures/
 
-# Visual Studio / Rider
+# Visual Studio / Rider / VS Code
 .vs/
 .vscode/
 .idea/
@@ -31,15 +32,22 @@ Thumbs.db
 # Crash reports
 sysinfo.txt
 
-# Build artifacts
+# Build artifacts and archives
 *.apk
 *.aab
 *.unitypackage
 *.app
 *.exe
+*.dll
 *.appx
 *.appxbundle
 *.unityweb
+*.zip
+
+# Files exceeding GitHub 100MB limit and unused huge demo textures
+*.cubemap
+Assets/Real Stars Skybox/Stars/*.cubemap
+Assets/Starfield Skybox/Demo/Textures/
 
 # Addressables
 ServerData/
@@ -50,12 +58,6 @@ ServerData/
 # Asset Store tools
 Assets/AssetStoreTools*
 
-# JetBrains Rider
-.idea/
-*.sln.iml
-
-# VS Code
-.vscode/
-
 # Plastic SCM / Unity Version Control local files
 *.plastic
+

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04fad43e517f6154ab820b2b279d0bd4, type: 3}
+  m_Name: NeptuneInfo
+  m_EditorClassIdentifier: Assembly-CSharp::CelestialBodyInfo
+  bodyName: Neptune
+  classification: Ice Giant
+  positionFromSun: 8th Planet
+  overview: 'Neptune is the eighth planet from the Sun and the most
+
+    distant
+    recognized planet. It is an ice giant with a
+
+    hydrogen-helium atmosphere
+    containing methane.
+
+    Its atmosphere exhibits extremely powerful winds
+
+    and
+    large storm systems.'
+  keyCharacteristics: '- Most distant recognized planet from the Sun.
+
+    - Extremely
+    fast atmospheric winds.
+
+    - Has a faint ring system.
+
+    - Contains the
+    Great Dark Spot observed by Voyager 2.
+
+    - Largest moon is Triton.
+
+    -
+    Triton follows a retrograde orbit around Neptune.'
+  meanRadiusKm: 24622
+  meanDiameterKm: 49244
+  massKg: 1.02409e+26
+  meanDensityGcm3: 1.638
+  surfaceGravityMs2: 11.15
+  escapeVelocityKms: 23.56
+  semiMajorAxisAU: 30.07
+  orbitalPeriodDays: 60190
+  orbitalEccentricity: 0.0095
+  orbitalInclinationDeg: 1.77
+  perihelionAU: 29.81
+  aphelionAU: 30.33
+  meanOrbitalVelocityKms: 5.43
+  siderealRotationPeriodDays: 0.67125
+  lengthOfDayHours: 16.1
+  axialTiltDeg: 28.32
+  atmosphericComposition: 'Primarily hydrogen and helium, with methane and
+
+    small
+    quantities of other compounds.
+
+    The atmosphere contains dynamic cloud systems,
+
+    storms
+    and extremely high-speed winds.'
+  atmosphericPressureBar: 0
+  minimumTemperatureC: 0
+  meanTemperatureC: -200
+  maximumTemperatureC: 0
+  moonCount: 4
+  notableMoons:
+  - Triton
+  - Nereid
+  - Proteus
+  - Larissa
+  internalStructure: 'Neptune contains a hydrogen-helium atmosphere and
+
+    a deep
+    interior rich in water, ammonia and methane.
+
+    It likely has a rocky central
+    core.'
+  surfaceAndRings: 'Neptune has no conventional solid surface.
+
+    Its faint ring
+    system contains narrow rings and
+
+    dusty ring arcs.'
+  magneticField: 'Neptune has a tilted and offset magnetic field,
+
+    producing
+    a complex magnetosphere.'

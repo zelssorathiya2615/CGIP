@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54baec96e61733d4b92f5da5f9bfe49d, type: 3}
+  m_Name: NeptuneData
+  m_EditorClassIdentifier: Assembly-CSharp::PlanetData
+  planetName: Neptune
+  semiMajorAxisAU: 30.06952752
+  eccentricity: 0.00895439
+  inclinationDeg: 1.7700552
+  meanLongitudeDeg: 304.22289287
+  longitudeOfPerihelionDeg: 46.68158724
+  longitudeOfAscendingNodeDeg: 131.78635853
+  semiMajorAxisRate: 0.00006447
+  eccentricityRate: 0.00000818
+  inclinationRate: 0.0002552
+  meanLongitudeRate: 218.46515314
+  longitudeOfPerihelionRate: -0.02768914
+  longitudeOfAscendingNodeRate: -0.00606302
+  b: -0.00041348
+  c: 0.68346318
+  s: -0.10162547
+  f: 7.67025
+  validFromYear: -3000
+  validToYear: 3000
+  source: NASA/JPL Solar System Dynamics - Approximate Positions of the Planets

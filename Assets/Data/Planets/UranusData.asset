@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54baec96e61733d4b92f5da5f9bfe49d, type: 3}
+  m_Name: UranusData
+  m_EditorClassIdentifier: Assembly-CSharp::PlanetData
+  planetName: Uranus
+  semiMajorAxisAU: 19.18797948
+  eccentricity: 0.0468574
+  inclinationDeg: 0.77298127
+  meanLongitudeDeg: 314.20276625
+  longitudeOfPerihelionDeg: 172.43404441
+  longitudeOfAscendingNodeDeg: 73.96250215
+  semiMajorAxisRate: -0.00020455
+  eccentricityRate: -0.0000155
+  inclinationRate: -0.00180155
+  meanLongitudeRate: 428.49512595
+  longitudeOfPerihelionRate: 0.09266985
+  longitudeOfAscendingNodeRate: 0.05739699
+  b: 0.00058331
+  c: -0.97731848
+  s: 0.17689245
+  f: 7.67025
+  validFromYear: -3000
+  validToYear: 3000
+  source: NASA/JPL Solar System Dynamics - Approximate Positions of the Planets
