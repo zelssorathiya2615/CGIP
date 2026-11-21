@@ -507,4 +507,15 @@ public class TimeController : MonoBehaviour
         isLive = true;
         isPaused = false;
     }
+
+
+    public void SetSimulationDate(DateTime selectedDate)
+    {
+        simulationDateTime = selectedDate;
+        isLive = false;
+        isPaused = true;
+    }
+
+
+
 }
